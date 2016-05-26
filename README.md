@@ -1,4 +1,4 @@
-# node-mecab-ffi
+# node-mecab-ya
 
 ## Install
 
