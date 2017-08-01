@@ -15,3 +15,8 @@ $ node_modules/mecab-ya/bin/install-mecab ko
 ```bash
 $ node sample.js
 ```
+
+## case ubuntu
+```bash
+./autogen.sh add to node_modules/mecab-ya/bin/install-mecab ....
+```
